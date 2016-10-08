@@ -1,6 +1,6 @@
 {
   "name": "boco-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Configuration for node.js apps",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,21 @@
   },
   "devDependencies": {
     "coffee-script": "^1.11.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bocodigitalmedia/boco-config.git"
+  },
+  "keywords": [
+    "config",
+    "configuration",
+    "settings",
+    "env",
+    "argv",
+    "options"
+  ],
+  "bugs": {
+    "url": "https://github.com/bocodigitalmedia/boco-config/issues"
+  },
+  "homepage": "https://github.com/bocodigitalmedia/boco-config#readme"
 }
